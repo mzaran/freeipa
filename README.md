@@ -1,0 +1,2 @@
+# freeipa
+scripts and tricks
